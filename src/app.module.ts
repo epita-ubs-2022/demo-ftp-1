@@ -4,6 +4,7 @@ import {
   FileModule,
   SocleTechniqueModule,
 } from '@pyrd/ubs2022-socletechnique-lib';
+
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 
